@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dab54125.css",
+    "main.js": "/static/js/main.028b4cd7.js",
+    "static/media/iphone.png": "/static/media/iphone.262aead973fc108ce300.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/android.png": "/static/media/android.2e8705adab0683bb0551.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/logo.png": "/static/media/logo.ba2c20111e9311de107e.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/index.html",
+    "main.dab54125.css.map": "/static/css/main.dab54125.css.map",
+    "main.028b4cd7.js.map": "/static/js/main.028b4cd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab54125.css",
+    "static/js/main.028b4cd7.js"
+  ]
+}
